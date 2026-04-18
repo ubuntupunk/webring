@@ -1,5 +1,12 @@
 # Webring Starter Kit
 
+[![GitHub](https://img.shields.io/badge/GitHub-ubuntupunk/webring-blue)](https://github.com/ubuntupunk/webring)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/ZA.svg" alt="made in za">
+</a>
+
 A boilerplate to host your own community of sites, also known as a [webring](https://en.wikipedia.org/wiki/Webring).  
 Inspired by posts from [Tatiana Mac](https://twitter.com/TatianaTMac/status/1114388079630929926) and [Charlie Owen](https://www.sonniesedge.net/posts/webrings).
 
